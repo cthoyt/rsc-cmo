@@ -2958,6 +2958,7 @@ Declaration(Class(obo:CHMO_0002930))
 Declaration(Class(obo:CHMO_0002931))
 Declaration(Class(obo:CHMO_0002932))
 Declaration(Class(obo:CHMO_0002935))
+Declaration(Class(obo:CHMO_0002936))
 Declaration(Class(obo:CHMO_0010000))
 Declaration(Class(obo:CHMO_0010001))
 Declaration(Class(obo:CHMO_0010002))
@@ -35931,6 +35932,15 @@ AnnotationAssertion(obo:IAO_0000115 obo:CHMO_0002935 "Electrochemical techniques
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002935 "CHMO:0002935")
 AnnotationAssertion(rdfs:label obo:CHMO_0002935 "galvanostatic techniques")
 SubClassOf(obo:CHMO_0002935 obo:CHMO_0000003)
+
+# Class: obo:CHMO_0002936 (galvanostatic cycling with potential limitation)
+
+AnnotationAssertion(obo:IAO_0000112 obo:CHMO_0002936 "As an electrochemical technique for measuring and characterizing batteries and E-chem cells.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/j.jelechem.2019.05.052") obo:IAO_0000115 obo:CHMO_0002936 "A galvanostatic electrochemical technique in which a constant current is applied to an electrochemical system while monitoring the potential. The current is reversed or stopped when predefined upper or lower potential limits are reached. This method is commonly used to evaluate charge storage capacity, cycling stability, and electrochemical performance of batteries, supercapacitors, and other energy storage devices.")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002936 "GCPL")
+AnnotationAssertion(oboInOwl:id obo:CHMO_0002936 "CHMO:0002936")
+AnnotationAssertion(rdfs:label obo:CHMO_0002936 "galvanostatic cycling with potential limitation")
+SubClassOf(obo:CHMO_0002936 obo:CHMO_0002935)
 
 # Class: obo:CHMO_0010000 (risk management planning process)
 
