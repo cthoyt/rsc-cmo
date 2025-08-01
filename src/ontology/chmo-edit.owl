@@ -35928,7 +35928,7 @@ SubClassOf(obo:CHMO_0002932 obo:CHMO_0002344)
 
 # Class: obo:CHMO_0002935 (galvanostatic analysis)
 
-AnnotationAssertion(Annotation(dcterms:source <https://www.numberanalytics.com/blog/galvanostatic-analysis-ultimate-guide>) obo:IAO_0000115 obo:CHMO_0002935 "An electrochemical analysis in which a constant current is applied to an electrochemical system while monitoring the resulting potential changes over time. This method is used to study charge storage, reaction kinetics, and material stability by maintaining a fixed current flow and observing the system’s electrochemical response."@en)
+AnnotationAssertion(obo:IAO_0000115 obo:CHMO_0002935 "An electrochemical analysis in which a constant current is applied to an electrochemical system while monitoring the resulting potential changes over time. This method is used to study charge storage, reaction kinetics, and material stability by maintaining a fixed current flow and observing the system’s electrochemical response."@en)
 AnnotationAssertion(obo:IAO_0000233 obo:CHMO_0002935 <https://github.com/rsc-ontologies/rsc-cmo/issues/37>)
 AnnotationAssertion(dcterms:contributor obo:CHMO_0002935 <https://orcid.org/0000-0002-1595-3213>)
 AnnotationAssertion(dcterms:contributor obo:CHMO_0002935 <https://orcid.org/0000-0002-4378-6061>)
