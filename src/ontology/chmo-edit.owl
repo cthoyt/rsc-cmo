@@ -35926,11 +35926,11 @@ AnnotationAssertion(oboInOwl:id obo:CHMO_0002932 "CHMO:0002932")
 AnnotationAssertion(rdfs:label obo:CHMO_0002932 "cathode")
 SubClassOf(obo:CHMO_0002932 obo:CHMO_0002344)
 
-# Class: obo:CHMO_0002935 (galvanostatic techniques)
+# Class: obo:CHMO_0002935 (galvanostatic analysis)
 
 AnnotationAssertion(obo:IAO_0000115 obo:CHMO_0002935 "Electrochemical techniques in which a constant current is applied to an electrochemical system while monitoring the resulting potential changes over time. These methods are used to study charge storage, reaction kinetics, and material stability by maintaining a fixed current flow and observing the system’s electrochemical response.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002935 "CHMO:0002935")
-AnnotationAssertion(rdfs:label obo:CHMO_0002935 "galvanostatic techniques")
+AnnotationAssertion(rdfs:label obo:CHMO_0002935 "galvanostatic analysis"@en)
 SubClassOf(obo:CHMO_0002935 obo:CHMO_0000003)
 
 # Class: obo:CHMO_0002936 (galvanostatic cycling with potential limitation)
