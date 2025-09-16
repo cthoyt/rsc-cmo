@@ -15435,7 +15435,7 @@ SubClassOf(obo:CHMO_0001084 obo:CHMO_0001074)
 
 # Class: obo:CHMO_0001085 (fluorescence-activated cell sorting)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:10.1039/b902504a") obo:IAO_0000115 obo:CHMO_0001085 "A method for separating microscopic particles suspended in a stream of fluid. The particles are forced individually through a vibrating nozzle, then exposed to a laser beam and the resulting fluorescence and scattered light is detected. Finally the cells are sorted by applying an electrical charge to droplets of the fluid and deflecting it to the left or right using charged electrodes.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "doi:10.1039/b902504a") obo:IAO_0000115 obo:CHMO_0001085 "A method for separating microscopic particles suspended in a stream of fluid. The particles are forced individually through a vibrating nozzle, then exposed to a laser beam and the resulting fluorescence and scattered light is detected. Finally the cells are sorted by applying an electrical charge to droplets of the fluid and deflecting it to the left or right using charged electrodes.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001085 "FACS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001085 "fluorescence activated cell sorting")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001085 "CHMO:0001085")
@@ -20811,7 +20811,7 @@ SubClassOf(obo:CHMO_0001604 obo:CHMO_0001600)
 
 # Class: obo:CHMO_0001605 (microporous membrane liquid–liquid extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN: 0824705092") obo:IAO_0000115 obo:CHMO_0001605 "The transfer of a solute from one phase (the 'donor' or 'feed' phase) to another (organic) phase (the 'acceptor' or 'strip' phase) across a porous hydrophobic membrane the pores of which are filled with the same acceptor phase.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0824705092") obo:IAO_0000115 obo:CHMO_0001605 "The transfer of a solute from one phase (the 'donor' or 'feed' phase) to another (organic) phase (the 'acceptor' or 'strip' phase) across a porous hydrophobic membrane the pores of which are filled with the same acceptor phase.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001605 "MMLLE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001605 "microporous membrane liquid-liquid extraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001605 "microporous membrane solvent extraction")
@@ -22471,7 +22471,7 @@ SubClassOf(obo:CHMO_0001778 obo:CHMO_0001777)
 
 # Class: obo:CHMO_0001779 (23Na triple-quantum excitation in combination with magic angle spinning)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:3540221689") Annotation(oboInOwl:hasDbXref "https://doi.org/1021/ja00124a023") obo:IAO_0000115 obo:CHMO_0001779 "An NMR experiment used for 23Na nuclei, involving transitions between non-consecutive energy levels during the excitation of the spin system by the first rf pulse.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:3540221689") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/ja00124a023") obo:IAO_0000115 obo:CHMO_0001779 "An NMR experiment used for 23Na nuclei, involving transitions between non-consecutive energy levels during the excitation of the spin system by the first rf pulse.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001779 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001779 "2009-05-20T12:47:22Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001779 "23Na TQMAS")
@@ -22482,7 +22482,7 @@ SubClassOf(obo:CHMO_0001779 obo:CHMO_0001204)
 
 # Class: obo:CHMO_0001780 (27Al triple-quantum excitation in combination with magic angle spinning)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:3540221689") Annotation(oboInOwl:hasDbXref "https://doi.org/1021/ja00124a023") obo:IAO_0000115 obo:CHMO_0001780 "An NMR experiment used for 27Al nuclei, involving transitions between non-consecutive energy levels during the excitation of the spin system by the first rf pulse.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:3540221689") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/ja00124a023") obo:IAO_0000115 obo:CHMO_0001780 "An NMR experiment used for 27Al nuclei, involving transitions between non-consecutive energy levels during the excitation of the spin system by the first rf pulse.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001780 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001780 "2009-05-20T12:49:47Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001780 "27Al TQMAS")
@@ -22493,7 +22493,7 @@ SubClassOf(obo:CHMO_0001780 obo:CHMO_0001204)
 
 # Class: obo:CHMO_0001781 (45Sc triple-quantum excitation in combination with magic angle spinning)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:3540221689") Annotation(oboInOwl:hasDbXref "https://doi.org/1021/ja00124a023") obo:IAO_0000115 obo:CHMO_0001781 "An NMR experiment used for 45Sc nuclei, involving transitions between non-consecutive energy levels during the excitation of the spin system by the first rf pulse.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:3540221689") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/ja00124a023") obo:IAO_0000115 obo:CHMO_0001781 "An NMR experiment used for 45Sc nuclei, involving transitions between non-consecutive energy levels during the excitation of the spin system by the first rf pulse.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001781 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001781 "2009-05-20T12:50:28Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001781 "45Sc TQMAS")
